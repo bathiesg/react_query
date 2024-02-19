@@ -1,0 +1,25 @@
+.product-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: inherit;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-details {
+    margin-top: 10px;
+  }
+  
+  .product-details p {
+    margin: 5px 0;
+  }
+  
+  .product-details ul {
+    padding-left: 20px;
+  }
+  
+  .product-details ul li {
+    margin-bottom: 5px;
+  }
+  
